@@ -14,6 +14,11 @@ No builds
 ## Wiki
 [Automated Dog Feeder Wiki](https://github.com/jjschweigert/AutomatedDogFeeder/wiki)
 
+## Schematics
+Block Diagram v1
+
+![Block Diagram v1](/media/AutomatedPetFeederBlockDiagram_v1.png)
+
 ## How To Use
 (Todo)
 

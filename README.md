@@ -7,7 +7,6 @@ The goals of this project are
 * To build a fully remote managable system that can be controlled from external applications using an API for various control
 * To allow the unit to run in isolation on a schedule and keeping clocks in sync so the schedule is as accurate as possible
 * Experimenting with designs to keep the form factor as minimal as possible, the end result will be ideal for a residential setting with limited space.
-...
 
 ## Build Status
 No builds
